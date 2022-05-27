@@ -103,3 +103,5 @@ addBtn.addEventListener("click", e => {
         closeIcon.click();
     }
 });
+
+alert("Welcome to Yatharth's Note app")
